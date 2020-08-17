@@ -1,2 +1,2 @@
-# Updated-whitpaper
+# Updated-whitepaper
 Loanburst updated whitepaper
